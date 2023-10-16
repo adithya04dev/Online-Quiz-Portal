@@ -1,0 +1,80 @@
+body {
+    font-family: sans-serif;
+  }
+  
+  #onl {
+    text-align: center;
+    font-size: 2rem;
+  }
+  
+  #user-form {
+    width: 500px;
+    margin: 0 auto;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  .form-label {
+    font-size: 1.2rem;
+  }
+  
+  .form-control {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+  
+  .btn-primary {
+    background-color: #007bff;
+    color: white;
+    border-radius: 4px;
+    padding: 10px 20px;
+  }
+  
+  #exam-div {
+    margin-top: 20px;
+  }
+  
+  #timer-div {
+    text-align: right;
+  }
+  
+  #question-div {
+    margin-top: 20px;
+  }
+  
+  #question-no {
+    font-size: 1.2rem;
+  }
+  
+  #question-text {
+    font-size: 1.2rem;
+    margin-bottom: 20px;
+  }
+  
+  #options-div {
+    margin-bottom: 20px;
+  }
+  
+  .form-check {
+    margin-bottom: 10px;
+  }
+  
+  #nav-div {
+    text-align: right;
+  }
+  
+  #result-div {
+    margin-top: 20px;
+  }
+  
+  #result-name,
+  #result-course,
+  #result-subject,
+  #result-score {
+    font-size: 1.2rem;
+  }
+  
